@@ -52,7 +52,7 @@ The system consists of three layers:
 
 ## Alert System Workflow
 
-![Workflow Diagram](smart_helmet_workflow.jpg)
+![Workflow Diagram](workflow_smart_helmet.jpg)
 
 1. System continuously monitors:
    - Air quality
