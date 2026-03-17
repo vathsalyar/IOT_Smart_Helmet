@@ -52,6 +52,8 @@ The system consists of three layers:
 
 ## Alert System Workflow
 
+![Workflow Diagram](smart_helmet_workflow.jpg)
+
 1. System continuously monitors:
    - Air quality
    - Motion data
@@ -70,6 +72,9 @@ The system consists of three layers:
 5. Supervisor receiver:
    - Activates buzzer
    - Turns on LED
+
+## Working
+![working of iot smart helmet](working_smart_helmet.mp4)
 
 ## Results
 
